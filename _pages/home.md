@@ -1,12 +1,14 @@
 ---
-title: "Allan Lab - Home"
+title: "SeQC Lab- Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "SeQC lab at IIT Hyderabad."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+<!---We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.--->
+
+Our research broadly engages in quantum communications research with specific focus on Quantum Network Routing and Quantum network simulators. We are based in the [Department of CSE, IIT Hyderabad](https://cse.iith.ac.in/).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
