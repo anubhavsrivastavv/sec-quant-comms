@@ -8,7 +8,7 @@ permalink: /
 
 <!---We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.--->
 
-Our research broadly engages in quantum communications research with specific focus on Quantum Network Routing and Quantum network simulators. We are based in the [Department of CSE, IIT Hyderabad](https://cse.iith.ac.in/).
+Our group engages in quantum communications research with specific focus on Quantum Network Routing and Quantum network simulators. We are based in the [Department of CSE, IIT Hyderabad](https://cse.iith.ac.in/).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -18,9 +18,9 @@ Our research broadly engages in quantum communications research with specific fo
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+        <!---<li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>--->
     </ol>
 
     <!-- Items -->
@@ -34,7 +34,7 @@ Our research broadly engages in quantum communications research with specific fo
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
         </div>
-        <div class="item">
+        <!---<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
         </div>
         <div class="item">
@@ -42,7 +42,7 @@ Our research broadly engages in quantum communications research with specific fo
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
-        </div>
+        </div> --->
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
