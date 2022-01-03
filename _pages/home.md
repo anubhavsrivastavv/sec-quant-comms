@@ -32,7 +32,7 @@ Our group engages in quantum communications research with specific focus on Quan
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/rules.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topology.jpgs" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topology.jpg" alt="Slide 3" />
         </div>
         <!---<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
