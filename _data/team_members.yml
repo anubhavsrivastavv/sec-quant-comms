@@ -1,9 +1,10 @@
 - name: MV Panduranga Rao
   photo: mvp.jpeg
-  info: Professor
+  info: Assistant Professor
   email: mvp@cse.iith.ac.in
   number_educ: 1
   education1: PhD IISc Bangalore
+  link: https://people.iith.ac.in/mvp/
   #education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
   #education3: Postdoc Cornell
   #education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
@@ -15,6 +16,7 @@
   email: tbr@cse.iith.ac.in
   number_educ: 1
   education1: PhD IIT Madras
+  link: https://people.iith.ac.in/tbr/index.html
   #education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
   #education3: Postdoc Cornell
   #education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
